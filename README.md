@@ -47,7 +47,7 @@ def test(capsys):
 
 ## Структура упражнения
 
-```
+```text
 exercise/
 ├── index.py        ← решение студента (импортируется автоматически)
 └── test_code.py    ← тест с expect_output
